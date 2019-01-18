@@ -6,9 +6,6 @@ import time
 import datetime
 import random
 import requests
-import logging
-import logging.config
-import numpy as np
 from lxml import etree
 
 class CrawBase:
